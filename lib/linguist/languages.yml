@@ -378,6 +378,7 @@ C:
   - .cats
   - .h
   - .idc
+  - .nxc
   - .w
   interpreters:
   - tcc
