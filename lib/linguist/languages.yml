@@ -378,7 +378,6 @@ C:
   - .cats
   - .h
   - .idc
-  - .nxc
   - .w
   interpreters:
   - tcc
@@ -2308,6 +2307,14 @@ NumPy:
   - .numsc
   tm_scope: none
   ace_mode: text
+
+NXC:
+  type: programming
+  extensions:
+  - .nxc
+  interpreters:
+  - tcc
+  ace_mode: c_cpp
 
 OCaml:
   type: programming
